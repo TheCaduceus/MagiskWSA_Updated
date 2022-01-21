@@ -1,6 +1,6 @@
 # Magisk on WSA (with Google Apps)
 
-##Contact US
+## Contact US
 <h4> For help <a href="https://www.telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
 
 ## Features
