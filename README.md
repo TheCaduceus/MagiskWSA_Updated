@@ -1,5 +1,7 @@
 # Magisk on WSA (with Google Apps)
 
+### For help @HelpAutomatted_Bot
+
 ## Features
 - Integrate Magisk and OpenGApps in a few clicks within minutes
 - No Linux environment required for integration
