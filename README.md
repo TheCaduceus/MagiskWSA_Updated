@@ -1,6 +1,7 @@
 # Magisk on WSA (with Google Apps)
 
-<h5> For help <a href=https://www.telegram.me/HelpAutomatted_Bot>@HelpAutomatted_Bot</a></h5>
+##Contact US
+<h4> For help <a href="https://www.telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
 
 ## Features
 - Integrate Magisk and OpenGApps in a few clicks within minutes
